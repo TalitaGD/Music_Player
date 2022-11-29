@@ -1,2 +1,2 @@
 # Music_Player
-Desenvolvendo Music Player com JS + HTML
+- Desenvolvendo o projeto "Music Player" com JS + HTML
